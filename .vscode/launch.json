@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Potion Atelier",
+            "request": "launch",
+            "mainClass": "com.potioncraft.Main",
+            "classPaths": ["${workspaceFolder}/bin"],
+            "cwd": "${workspaceFolder}",
+            "preLaunchTask": "Build Potion Atelier",
+            "console": "internalConsole"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+Mode: built-in image generation tool, followed by mechanical native sprite preparation.
+Final user request: simple true 32x32 images, fewer details, consistent bit-art style; character-appropriate heights; normal, impatient, angry expressions; masked characters show anger through body gestures.
+Master style: the simplified elder_herbalist.png strip in this directory. The original herbalist design supplies identity and colors. This version redraws larger, simpler heads and tiny flat bodies for readable eyes and mouths at tiny resolution.
+Every source strip has 3 full-body front-facing frames: normal, impatient, angry. Each character's exact generation prompt and original generated file are recorded in its adjacent <character>-prompt.txt.
+Final files: asset/customers/<character>/{normal,impatient,angry}.png, each 32x32 pixels, binary transparency and at most 16 opaque colors shared by the three moods. White counterparts and 39-file ZIPs are under output/customers/.
+Preparation: one shared scale per character's three frames; common foot anchor; nearest-neighbor projection; one median-cut 16-color palette for all three frames. No procedural replacement bodies are used.

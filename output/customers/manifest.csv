@@ -1,0 +1,40 @@
+﻿character,thai_name,english_name,rarity,height_cm,expression,thai_expression,width,height,white_file,transparent_file
+elder_herbalist,คุณยายแม่มดสมุนไพร,Elder Herbalist,Common (ลูกค้าทั่วไป),148,normal,ปกติ,32,32,output/customers/white/elder_herbalist-normal.png,asset/customers/elder_herbalist/normal.png
+elder_herbalist,คุณยายแม่มดสมุนไพร,Elder Herbalist,Common (ลูกค้าทั่วไป),148,impatient,เริ่มไม่พอใจ,32,32,output/customers/white/elder_herbalist-impatient.png,asset/customers/elder_herbalist/impatient.png
+elder_herbalist,คุณยายแม่มดสมุนไพร,Elder Herbalist,Common (ลูกค้าทั่วไป),148,angry,โกรธ,32,32,output/customers/white/elder_herbalist-angry.png,asset/customers/elder_herbalist/angry.png
+apprentice_mage,จอมเวทฝึกหัด,Apprentice Mage,Common (ลูกค้าทั่วไป),162,normal,ปกติ,32,32,output/customers/white/apprentice_mage-normal.png,asset/customers/apprentice_mage/normal.png
+apprentice_mage,จอมเวทฝึกหัด,Apprentice Mage,Common (ลูกค้าทั่วไป),162,impatient,เริ่มไม่พอใจ,32,32,output/customers/white/apprentice_mage-impatient.png,asset/customers/apprentice_mage/impatient.png
+apprentice_mage,จอมเวทฝึกหัด,Apprentice Mage,Common (ลูกค้าทั่วไป),162,angry,โกรธ,32,32,output/customers/white/apprentice_mage-angry.png,asset/customers/apprentice_mage/angry.png
+mushroom_gatherer,สาวน้อยเก็บเห็ด,Mushroom Gatherer,Common (ลูกค้าทั่วไป),140,normal,ปกติ,32,32,output/customers/white/mushroom_gatherer-normal.png,asset/customers/mushroom_gatherer/normal.png
+mushroom_gatherer,สาวน้อยเก็บเห็ด,Mushroom Gatherer,Common (ลูกค้าทั่วไป),140,impatient,เริ่มไม่พอใจ,32,32,output/customers/white/mushroom_gatherer-impatient.png,asset/customers/mushroom_gatherer/impatient.png
+mushroom_gatherer,สาวน้อยเก็บเห็ด,Mushroom Gatherer,Common (ลูกค้าทั่วไป),140,angry,โกรธ,32,32,output/customers/white/mushroom_gatherer-angry.png,asset/customers/mushroom_gatherer/angry.png
+local_farmer,ชาวนาท้องถิ่น,Local Farmer,Common (ลูกค้าทั่วไป),174,normal,ปกติ,32,32,output/customers/white/local_farmer-normal.png,asset/customers/local_farmer/normal.png
+local_farmer,ชาวนาท้องถิ่น,Local Farmer,Common (ลูกค้าทั่วไป),174,impatient,เริ่มไม่พอใจ,32,32,output/customers/white/local_farmer-impatient.png,asset/customers/local_farmer/impatient.png
+local_farmer,ชาวนาท้องถิ่น,Local Farmer,Common (ลูกค้าทั่วไป),174,angry,โกรธ,32,32,output/customers/white/local_farmer-angry.png,asset/customers/local_farmer/angry.png
+mercenary_knight,อัศวินรับจ้าง,Mercenary Knight,Rare (ลูกค้าหายาก),184,normal,ปกติ,32,32,output/customers/white/mercenary_knight-normal.png,asset/customers/mercenary_knight/normal.png
+mercenary_knight,อัศวินรับจ้าง,Mercenary Knight,Rare (ลูกค้าหายาก),184,impatient,เริ่มไม่พอใจ,32,32,output/customers/white/mercenary_knight-impatient.png,asset/customers/mercenary_knight/impatient.png
+mercenary_knight,อัศวินรับจ้าง,Mercenary Knight,Rare (ลูกค้าหายาก),184,angry,โกรธ,32,32,output/customers/white/mercenary_knight-angry.png,asset/customers/mercenary_knight/angry.png
+rogue_shadow,โจรเงาพเนจร,Rogue Shadow,Rare (ลูกค้าหายาก),170,normal,ปกติ,32,32,output/customers/white/rogue_shadow-normal.png,asset/customers/rogue_shadow/normal.png
+rogue_shadow,โจรเงาพเนจร,Rogue Shadow,Rare (ลูกค้าหายาก),170,impatient,เริ่มไม่พอใจ,32,32,output/customers/white/rogue_shadow-impatient.png,asset/customers/rogue_shadow/impatient.png
+rogue_shadow,โจรเงาพเนจร,Rogue Shadow,Rare (ลูกค้าหายาก),170,angry,โกรธ,32,32,output/customers/white/rogue_shadow-angry.png,asset/customers/rogue_shadow/angry.png
+elven_ranger,นักพิทักษ์ป่าเอลฟ์,Elven Ranger,Rare (ลูกค้าหายาก),182,normal,ปกติ,32,32,output/customers/white/elven_ranger-normal.png,asset/customers/elven_ranger/normal.png
+elven_ranger,นักพิทักษ์ป่าเอลฟ์,Elven Ranger,Rare (ลูกค้าหายาก),182,impatient,เริ่มไม่พอใจ,32,32,output/customers/white/elven_ranger-impatient.png,asset/customers/elven_ranger/impatient.png
+elven_ranger,นักพิทักษ์ป่าเอลฟ์,Elven Ranger,Rare (ลูกค้าหายาก),182,angry,โกรธ,32,32,output/customers/white/elven_ranger-angry.png,asset/customers/elven_ranger/angry.png
+traveling_merchant,นักการค้าแดนไกล,Traveling Merchant,Rare (ลูกค้าหายาก),166,normal,ปกติ,32,32,output/customers/white/traveling_merchant-normal.png,asset/customers/traveling_merchant/normal.png
+traveling_merchant,นักการค้าแดนไกล,Traveling Merchant,Rare (ลูกค้าหายาก),166,impatient,เริ่มไม่พอใจ,32,32,output/customers/white/traveling_merchant-impatient.png,asset/customers/traveling_merchant/impatient.png
+traveling_merchant,นักการค้าแดนไกล,Traveling Merchant,Rare (ลูกค้าหายาก),166,angry,โกรธ,32,32,output/customers/white/traveling_merchant-angry.png,asset/customers/traveling_merchant/angry.png
+orc_berserker,นักรบเบอร์เซิร์กเกอร์,Orc Berserker,Epic (ลูกค้าระดับมหากาพย์),208,normal,ปกติ,32,32,output/customers/white/orc_berserker-normal.png,asset/customers/orc_berserker/normal.png
+orc_berserker,นักรบเบอร์เซิร์กเกอร์,Orc Berserker,Epic (ลูกค้าระดับมหากาพย์),208,impatient,เริ่มไม่พอใจ,32,32,output/customers/white/orc_berserker-impatient.png,asset/customers/orc_berserker/impatient.png
+orc_berserker,นักรบเบอร์เซิร์กเกอร์,Orc Berserker,Epic (ลูกค้าระดับมหากาพย์),208,angry,โกรธ,32,32,output/customers/white/orc_berserker-angry.png,asset/customers/orc_berserker/angry.png
+high_priestess,นักบวชศักดิ์สิทธิ์,High Priestess,Epic (ลูกค้าระดับมหากาพย์),178,normal,ปกติ,32,32,output/customers/white/high_priestess-normal.png,asset/customers/high_priestess/normal.png
+high_priestess,นักบวชศักดิ์สิทธิ์,High Priestess,Epic (ลูกค้าระดับมหากาพย์),178,impatient,เริ่มไม่พอใจ,32,32,output/customers/white/high_priestess-impatient.png,asset/customers/high_priestess/impatient.png
+high_priestess,นักบวชศักดิ์สิทธิ์,High Priestess,Epic (ลูกค้าระดับมหากาพย์),178,angry,โกรธ,32,32,output/customers/white/high_priestess-angry.png,asset/customers/high_priestess/angry.png
+dark_paladin,อัศวินเกราะดำ,Paladin of Darkness,Epic (ลูกค้าระดับมหากาพย์),198,normal,ปกติ,32,32,output/customers/white/dark_paladin-normal.png,asset/customers/dark_paladin/normal.png
+dark_paladin,อัศวินเกราะดำ,Paladin of Darkness,Epic (ลูกค้าระดับมหากาพย์),198,impatient,เริ่มไม่พอใจ,32,32,output/customers/white/dark_paladin-impatient.png,asset/customers/dark_paladin/impatient.png
+dark_paladin,อัศวินเกราะดำ,Paladin of Darkness,Epic (ลูกค้าระดับมหากาพย์),198,angry,โกรธ,32,32,output/customers/white/dark_paladin-angry.png,asset/customers/dark_paladin/angry.png
+archmage_albus,อาจารย์ใหญ่โรงเรียนเวทมนตร์,Archmage Albus,Legendary (ลูกค้าระดับตำนาน),188,normal,ปกติ,32,32,output/customers/white/archmage_albus-normal.png,asset/customers/archmage_albus/normal.png
+archmage_albus,อาจารย์ใหญ่โรงเรียนเวทมนตร์,Archmage Albus,Legendary (ลูกค้าระดับตำนาน),188,impatient,เริ่มไม่พอใจ,32,32,output/customers/white/archmage_albus-impatient.png,asset/customers/archmage_albus/impatient.png
+archmage_albus,อาจารย์ใหญ่โรงเรียนเวทมนตร์,Archmage Albus,Legendary (ลูกค้าระดับตำนาน),188,angry,โกรธ,32,32,output/customers/white/archmage_albus-angry.png,asset/customers/archmage_albus/angry.png
+fae_queen,ราชินีภูติแห่งป่าลึก,Fae Queen,Legendary (ลูกค้าระดับตำนาน),176,normal,ปกติ,32,32,output/customers/white/fae_queen-normal.png,asset/customers/fae_queen/normal.png
+fae_queen,ราชินีภูติแห่งป่าลึก,Fae Queen,Legendary (ลูกค้าระดับตำนาน),176,impatient,เริ่มไม่พอใจ,32,32,output/customers/white/fae_queen-impatient.png,asset/customers/fae_queen/impatient.png
+fae_queen,ราชินีภูติแห่งป่าลึก,Fae Queen,Legendary (ลูกค้าระดับตำนาน),176,angry,โกรธ,32,32,output/customers/white/fae_queen-angry.png,asset/customers/fae_queen/angry.png

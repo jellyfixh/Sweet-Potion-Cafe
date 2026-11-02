@@ -1,0 +1,16 @@
+Generated with the built-in ImageGen tool. Reference: IMG_6593.PNG.
+
+parchment.png
+Use case: precise-object-edit. Edit target: attached parchment map reference. Remove the entire PARCHMENT WORLD MAP title at the very top and the small white sparkle at lower right. Seamlessly restore the dark brown horizontal wood behind the title. Keep the warm pixel art parchment scroll with curled vertical rods, burnt irregular edges, aged golden paper, broad empty center and dark wooden tabletop. Match reference composition and aspect ratio 1296:832. No text, no letters, no symbols, no locations. This is a blank background for a game map.
+
+forest.png
+A single isolated fantasy forest map landmark: cluster of lush emerald and olive trees, tiny woodland path, mushrooms and ancient tree. Warm 16-bit pixel art, crisp square pixels, dark brown outlines, soft amber highlights. Slight elevated 3/4 map perspective. Compact cohesive silhouette, entire landmark visible, generous transparent margin. Fits an antique golden parchment world map. No text, labels, border, UI, characters. Transparent background.
+
+harbor.png
+A single isolated medieval fantasy harbor map landmark: small wooden pier, a moored sailing ship with cream sails, timber seaside warehouse and tiny patch of muted blue water under the pier only. Warm 16-bit pixel art, crisp square pixels, dark brown outlines, amber highlights, slightly elevated 3/4 map perspective. Compact cohesive silhouette, entire landmark visible, generous transparent margin. Fits antique golden parchment map. No text, labels, border, UI, characters. Transparent background.
+
+cave.png
+A single isolated fantasy cave map landmark: rocky gray and umber mountain outcrop with large dark cave entrance, small violet crystals and winding approach path. Warm 16-bit pixel art, crisp square pixels, dark brown outlines, amber highlights. Slight elevated 3/4 map perspective. Compact cohesive silhouette, entire landmark visible, generous transparent margin. Fits antique golden parchment map. No text, labels, border, UI, characters. Transparent background.
+
+palace.png
+A single isolated fantasy royal palace map landmark: elegant ivory stone palace with gold and terracotta spires, royal red banners, grand arched gate and small stone approach. Warm 16-bit pixel art, crisp square pixels, dark brown outlines, amber highlights. Slight elevated 3/4 map perspective. Compact cohesive silhouette, entire landmark visible, generous transparent margin. Fits antique golden parchment map. No text, labels, border, UI, characters. Transparent background.

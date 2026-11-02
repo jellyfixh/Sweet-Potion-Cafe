@@ -1,0 +1,78 @@
+{
+  "mode": "built-in image generation tool",
+  "master_style": "output/imagegen/customer-sources/native32/elder_herbalist.png",
+  "user_request": "simple true 32x32 pixel art; larger readable faces; varied heights; normal, impatient and angry; masked characters show angry body gestures",
+  "frame_width": 32,
+  "frame_height": 32,
+  "maximum_palette_colors": 16,
+  "sources": [
+    {
+      "character": "apprentice_mage",
+      "source": "C:\\Users\\ACER\\Desktop\\game\\output\\imagegen\\customer-sources\\native32\\apprentice_mage.png",
+      "prompt": "C:\\Users\\ACER\\Desktop\\game\\output\\imagegen\\customer-sources\\native32\\apprentice_mage-prompt.txt"
+    },
+    {
+      "character": "archmage_albus",
+      "source": "C:\\Users\\ACER\\Desktop\\game\\output\\imagegen\\customer-sources\\native32\\archmage_albus.png",
+      "prompt": "C:\\Users\\ACER\\Desktop\\game\\output\\imagegen\\customer-sources\\native32\\archmage_albus-prompt.txt"
+    },
+    {
+      "character": "dark_paladin",
+      "source": "C:\\Users\\ACER\\Desktop\\game\\output\\imagegen\\customer-sources\\native32\\dark_paladin.png",
+      "prompt": "C:\\Users\\ACER\\Desktop\\game\\output\\imagegen\\customer-sources\\native32\\dark_paladin-prompt.txt"
+    },
+    {
+      "character": "elder_herbalist",
+      "source": "C:\\Users\\ACER\\Desktop\\game\\output\\imagegen\\customer-sources\\native32\\elder_herbalist.png",
+      "prompt": "C:\\Users\\ACER\\Desktop\\game\\output\\imagegen\\customer-sources\\native32\\elder_herbalist-prompt.txt"
+    },
+    {
+      "character": "elven_ranger",
+      "source": "C:\\Users\\ACER\\Desktop\\game\\output\\imagegen\\customer-sources\\native32\\elven_ranger.png",
+      "prompt": "C:\\Users\\ACER\\Desktop\\game\\output\\imagegen\\customer-sources\\native32\\elven_ranger-prompt.txt"
+    },
+    {
+      "character": "fae_queen",
+      "source": "C:\\Users\\ACER\\Desktop\\game\\output\\imagegen\\customer-sources\\native32\\fae_queen.png",
+      "prompt": "C:\\Users\\ACER\\Desktop\\game\\output\\imagegen\\customer-sources\\native32\\fae_queen-prompt.txt"
+    },
+    {
+      "character": "high_priestess",
+      "source": "C:\\Users\\ACER\\Desktop\\game\\output\\imagegen\\customer-sources\\native32\\high_priestess.png",
+      "prompt": "C:\\Users\\ACER\\Desktop\\game\\output\\imagegen\\customer-sources\\native32\\high_priestess-prompt.txt"
+    },
+    {
+      "character": "local_farmer",
+      "source": "C:\\Users\\ACER\\Desktop\\game\\output\\imagegen\\customer-sources\\native32\\local_farmer.png",
+      "prompt": "C:\\Users\\ACER\\Desktop\\game\\output\\imagegen\\customer-sources\\native32\\local_farmer-prompt.txt"
+    },
+    {
+      "character": "mercenary_knight",
+      "source": "C:\\Users\\ACER\\Desktop\\game\\output\\imagegen\\customer-sources\\native32\\mercenary_knight.png",
+      "prompt": "C:\\Users\\ACER\\Desktop\\game\\output\\imagegen\\customer-sources\\native32\\mercenary_knight-prompt.txt"
+    },
+    {
+      "character": "mushroom_gatherer",
+      "source": "C:\\Users\\ACER\\Desktop\\game\\output\\imagegen\\customer-sources\\native32\\mushroom_gatherer.png",
+      "prompt": "C:\\Users\\ACER\\Desktop\\game\\output\\imagegen\\customer-sources\\native32\\mushroom_gatherer-prompt.txt"
+    },
+    {
+      "character": "orc_berserker",
+      "source": "C:\\Users\\ACER\\Desktop\\game\\output\\imagegen\\customer-sources\\native32\\orc_berserker.png",
+      "prompt": "C:\\Users\\ACER\\Desktop\\game\\output\\imagegen\\customer-sources\\native32\\orc_berserker-prompt.txt"
+    },
+    {
+      "character": "rogue_shadow",
+      "source": "C:\\Users\\ACER\\Desktop\\game\\output\\imagegen\\customer-sources\\native32\\rogue_shadow.png",
+      "prompt": "C:\\Users\\ACER\\Desktop\\game\\output\\imagegen\\customer-sources\\native32\\rogue_shadow-prompt.txt"
+    },
+    {
+      "character": "traveling_merchant",
+      "source": "C:\\Users\\ACER\\Desktop\\game\\output\\imagegen\\customer-sources\\native32\\traveling_merchant.png",
+      "prompt": "C:\\Users\\ACER\\Desktop\\game\\output\\imagegen\\customer-sources\\native32\\traveling_merchant-prompt.txt"
+    }
+  ],
+  "delivery": "asset/customers/<character>/<mood>.png",
+  "white_delivery": "output/customers/white/<character>-<mood>.png",
+  "style_spec": "output/imagegen/customer-sources/native32/style-spec.txt"
+}
